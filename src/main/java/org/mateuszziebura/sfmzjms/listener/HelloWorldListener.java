@@ -14,7 +14,7 @@ import javax.jms.JMSException;
 import javax.jms.Message;
 import java.util.UUID;
 
-@Component
+//@Component
 @RequiredArgsConstructor
 public class HelloWorldListener {
 
